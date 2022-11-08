@@ -72,7 +72,8 @@
 # PROJECT STRUCTURE :
 
 
-![image](https://user-images.githubusercontent.com/86544335/198891257-6b0d65bc-ffda-4f95-b804-fdd71beea62e.png)
+
+![WhatsApp Image 2022-11-08 at 7 27 56 AM](https://user-images.githubusercontent.com/86544335/200465259-95494f27-707f-42ba-be18-639307771c55.jpeg)
 
 
 
